@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+.env
+/.idea
+*.log
+/storage/logs/*
+/public/hot
+/public/storage
+/database/*.sqlite
+/database/*.sqlite-journal
